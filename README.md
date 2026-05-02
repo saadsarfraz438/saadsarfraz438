@@ -26,12 +26,12 @@ I have built a strong programming foundation using C++ through core subjects lik
 
 I enjoy problem solving and building logics such as:
 
-🔹 Data Structure & Algorithms 
-🔹 Programming Fundamentals
-🔹 Object Oriented Programming 
-🔹 Artificial Intelligence
-🔹 Operating systems
-🔹 DataBase System
+🔹Data Structure & Algorithms 
+🔹Programming Fundamentals
+🔹Object Oriented Programming 
+🔹Artificial Intelligence
+🔹Operating systems
+🔹DataBase System
 
 Currently, I am expanding into SQL and Python to grow towards backend development and data-driven applications.
 

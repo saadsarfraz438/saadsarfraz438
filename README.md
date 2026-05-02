@@ -21,16 +21,17 @@ Hi, I'm Saad
 
  Software Engineering Student  
  
-#  About Me
+##  About Me
 I have built a strong programming foundation using C++ through core subjects like Programming Fundamentals, Object-Oriented Programming, and Data Structures & Algorithms.
 
 I enjoy problem solving and building logics such as:
-🔹Data Structure & Algorithms 
-🔹Programming Fundamentals
-🔹Object Oriented Programming 
-🔹Artificial Intelligence
-🔹Operating systems
-🔹DataBase System
+
+🔹 Data Structure & Algorithms 
+🔹 Programming Fundamentals
+🔹 Object Oriented Programming 
+🔹 Artificial Intelligence
+🔹 Operating systems
+🔹 DataBase System
 
 Currently, I am expanding into SQL and Python to grow towards backend development and data-driven applications.
 

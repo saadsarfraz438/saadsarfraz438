@@ -20,20 +20,19 @@
 Hi, I'm Saad
 
  Software Engineering Student  
- Strong in C++ (PF, OOP, DSA)  
- Currently learning SQL & Python  
-
-
-##  About Me
+ 
+#  About Me
 I have built a strong programming foundation using C++ through core subjects like Programming Fundamentals, Object-Oriented Programming, and Data Structures & Algorithms.
 
-I enjoy problem solving and building logical systems such as:
-- ATM Management System
-- Quiz System
-- Calculator Applications
+I enjoy problem solving and building logics such as:
+🔹Data Structure & Algorithms 
+🔹Programming Fundamentals
+🔹Object Oriented Programming 
+🔹Artificial Intelligence
+🔹Operating systems
+🔹DataBase System
 
 Currently, I am expanding into SQL and Python to grow towards backend development and data-driven applications.
-
 
 
 ##  Tech Stack
@@ -44,14 +43,9 @@ Currently, I am expanding into SQL and Python to grow towards backend developmen
 
 
 ##  Projects
-🔹 ATM Management System (C++)  
-🔹 Quiz Management System (C++)  
-🔹 Calculator (C++)  
-
-
-
-##  GitHub Stats
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadsarfraz438&show_icons=true)
+🔹 Hotel Reservation Managment System  
+🔹 console Based Quiz Management System (C++)  
+🔹 SCRAMS System Design 
 
 
 
@@ -61,6 +55,6 @@ Currently, I am expanding into SQL and Python to grow towards backend developmen
 ---
 
 ##  Contact Me
+Reach out via
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://x.com/Saadsarfraz438)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saad-sarfraz-389450350/)
- saadsarfraz438@gmail.com  

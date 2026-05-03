@@ -10,7 +10,7 @@
                         |||             |______________|
                         |||             || ||      || ||
                         |||             || ||      || ||
-                        |__>            || ||      || ||
+                        |__>            || ||      || ||             hit
                         
 ------------------------------------------------------------------------                       
 
@@ -22,9 +22,9 @@ Hi, I'm Saad
  Software Engineering Student  
  
 ##  About Me
-I have built a strong programming foundation using C++ through core subjects like Programming Fundamentals, Object-Oriented Programming, and Data Structures & Algorithms.
+I'm a passionate software engineer student who enjoys building practical and efficient solutions. I’m currently learning and improving my skills in programming, problem-solving, and software development. I like exploring new technologies and working on projects that help me grow as a developer.
 
-I enjoy problem solving and building logics such as:
+I enjoy problem solving and building logics that i learned from:
 
 🔹Data Structure & Algorithms 
 🔹Programming Fundamentals
@@ -33,7 +33,7 @@ I enjoy problem solving and building logics such as:
 🔹Operating systems
 🔹DataBase System
 
-Currently, I am expanding into SQL and Python to grow towards backend development and data-driven applications.
+Currently, I am expanding into SQL and Python to grow towards future development and data-driven applications.
 
 
 ##  Tech Stack
@@ -53,7 +53,7 @@ Currently, I am expanding into SQL and Python to grow towards backend developmen
 ##  Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=saadsarfraz438)
 
----
+
 
 ##  Contact Me
 Reach out via

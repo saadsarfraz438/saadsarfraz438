@@ -22,10 +22,10 @@ Hi, I'm Saad
  Software Engineering Student  
  
 ##  About Me
-I'm a passionate software engineer student who enjoys building practical and efficient solutions. I’m currently learning and improving my skills in programming, problem-solving, and software development. I like exploring new technologies and working on projects that help me grow as a developer.
+I'm a passionate software engineering student who enjoys building practical and efficient solutions. I’m currently learning and improving my skills in programming, problem-solving, and software development. I like exploring new technologies and working on projects that help me grow as a developer.
 
 I enjoy problem solving and building logics that i learned from:
-
+##
 🔹Data Structure & Algorithms 
 🔹Programming Fundamentals
 🔹Object Oriented Programming 

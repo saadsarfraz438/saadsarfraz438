@@ -15,15 +15,16 @@
 ------------------------------------------------------------------------                       
 
 
-
      
-Hi, I'm Saad
+## Hi, I'm Saad
 
  Software Engineering Student  
  
 ##  About Me
 
-I'm a passionate software engineering student who enjoys building practical and efficient solutions. I’m currently learning and improving my skills in programming, problem-solving, and software development. I like exploring new technologies and working on projects that help me grow as a developer.
+
+I'm a passionate software engineering undergraduate who enjoys building practical and efficient solutions. I’m currently learning and improving my skills in programming, problem-solving, and software development. Passionate about exploring emerging technologies and building impactful projects that strengthen my problem-solving and development skills. Seeking an internship opportunity to gain hands-on industry experience, collaborate in professional environments, and further enhance my technical expertise
+
 
 ## Software Engineering Fundamentals
 
@@ -54,10 +55,8 @@ Currently, I am expanding into SQL and Python to grow towards future development
 🔹 SCRAMS System Design 
 
 
-
 ##  Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=saadsarfraz438)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=saadsarfraz438&theme=github_dark)
 
 
 ##  Contact Me

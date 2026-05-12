@@ -1,3 +1,6 @@
+
+ 
+              
               _
              | |
              | |===( )   //////
@@ -12,54 +15,82 @@
                         |||             || ||      || ||
                         |__>            || ||      || ||             hit to end
                         
-------------------------------------------------------------------------                       
+------------------------------------------------------------------------        
+<h1 align="center">Hi, I'm Saad 👋</h1>
+<h3 align="center">Software Engineering Student | The University of Lahore</h3>
 
+---
 
-     
-## Hi, I'm Saad
-
- Software Engineering Student  
- 
 ##  About Me
 
+I'm a passionate Software Engineering undergraduate who enjoys building practical and efficient solutions. I love exploring emerging technologies and turning ideas into impactful projects.
 
-I'm a passionate software engineering undergraduate who enjoys building practical and efficient solutions. I’m currently learning and improving my skills in programming, problem-solving, and software development. Passionate about exploring emerging technologies and building impactful projects that strengthen my problem-solving and development skills. Seeking an internship opportunity to gain hands-on industry experience, collaborate in professional environments, and further enhance my technical expertise
+-  Studying at **The University of Lahore**
+-  Currently expanding into **Python** and **SQL** for data-driven development
+-  Seeking an **internship** to gain hands-on industry experience
+-  Always learning, always building
 
+---
 
-## Software Engineering Fundamentals
+##  Core cs Fundamentals
 
-I enjoy problem solving and building logics that i learned from:
-
-- Data Structure & Algorithms 
-- Programming Fundamentals
-- Object Oriented Programming 
-- Artificial Intelligence
-- Operating system
-- DataBase System
-- Software Engineering
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Systems
+- Operating Systems
 - Computer Networks
+- Software Engineering
+- Artificial Intelligence
 
-Currently, I am expanding into SQL and Python to grow towards future development and data-driven applications.
+---
 
+## 🛠️ Tech Stack
 
-##  Tech Stack
--  C++
--  SQL 
--  Python 
--  HTML, CSS (Basics)
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Libraries & Frameworks
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Environment
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Dev C++](https://img.shields.io/badge/Dev%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
 
 ##  Projects
-🔹 Hotel Reservation Managment System  
-🔹 console Based Quiz Management System (C++)  
-🔹 SCRAMS System Design 
 
+| Project | Description | Tech |
+|--------|-------------|------|
+|  [Hotel Reservation Management System](https://github.com/SaadSarfraz438/hotel-reservation-management-system-dbms) | ER diagram, relational schema, normalization & SQL queries | SQL, DBMS |
+|  [Quiz Management System](https://github.com/SaadSarfraz438/Quiz-Management-System-CPP) | Console-based quiz app using OOP concepts | C++ |
+|  [SCRAMS System Design](https://github.com/SaadSarfraz438/SCRAMS-System-Design) | UML diagrams for a Smart Course Registration System | System Design |
+|  [Migraine Prediction ML](https://github.com/SaadSarfraz438/migraine-prediction-ml) | ML-based migraine prediction using survey data | Python, ML |
 
-##  Streak Stats
+---
+
+##  GitHub Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=saadsarfraz438&theme=github_dark)
 
+---
 
-##  Contact Me
-Reach out via
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://x.com/Saadsarfraz438)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saad-sarfraz-389450350/)
+##  Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadsarfraz438@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saad-sarfraz-389450350/)
+[![Twitter / X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/Saadsarfraz438)

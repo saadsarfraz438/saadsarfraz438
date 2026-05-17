@@ -42,9 +42,12 @@ I'm a passionate Software Engineering undergraduate who enjoys building practica
 - Software Engineering
 - Artificial Intelligence
 
+## portfolio
+
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Live%20Demo-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://saadsarfraz438.github.io/portfolio/)
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

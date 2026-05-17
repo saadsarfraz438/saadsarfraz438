@@ -79,10 +79,10 @@ I'm a passionate Software Engineering undergraduate who enjoys building practica
 
 | Project | Description | Tech |
 |--------|-------------|------|
-|  [Hotel Reservation Management System](https://github.com/SaadSarfraz438/hotel-reservation-management-system-dbms) | ER diagram, relational schema, normalization & SQL queries | SQL, DBMS |
-|  [Quiz Management System](https://github.com/SaadSarfraz438/Quiz-Management-System-CPP) | Console-based quiz app using OOP concepts | C++ |
-|  [SCRAMS System Design](https://github.com/SaadSarfraz438/SCRAMS-System-Design) | UML diagrams for a Smart Course Registration System | System Design |
-|  [Migraine Prediction ML](https://github.com/SaadSarfraz438/migraine-prediction-ml) | ML-based migraine prediction using survey data | Python, ML |
+|  [Hotel Reservation Management System](https://github.com/SaadSarfraz438/hotel-reservation-management-system-dbms) | ER diagram, relational schema, normalization & SQL queries |![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-150458?style=for-the-badge&logo=DBMS&logoColor=white)|
+|  [Quiz Management System](https://github.com/SaadSarfraz438/Quiz-Management-System-CPP) | Console-based quiz app using OOP concepts | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+|  [SCRAMS System Design](https://github.com/SaadSarfraz438/SCRAMS-System-Design) | UML diagrams for a Smart Course Registration System | ![System Design](https://img.shields.io/badge/SystemDesign-E95420?style=for-the-badge&logo=SystemDesign&logoColor=white)|
+|  [Migraine Prediction ML](https://github.com/SaadSarfraz438/migraine-prediction-ml) | ML-based migraine prediction using survey data | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![ML](https://img.shields.io/badge/ML%20-F9AB00?style=for-the-badge&logo=ML&logoColor=black)|
 
 ---
 

@@ -41,6 +41,7 @@ I'm a passionate Software Engineering undergraduate who enjoys building practica
 - Computer Networks
 - Software Engineering
 - Artificial Intelligence
+- Programming Fundamentals
 
 ## portfolio
 

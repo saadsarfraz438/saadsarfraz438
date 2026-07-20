@@ -56,6 +56,9 @@ I'm a passionate Software Engineering undergraduate who enjoys building practica
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![React](https://shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor='#1572B6)
+
 
 ### Libraries & Frameworks
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -84,7 +87,7 @@ I'm a passionate Software Engineering undergraduate who enjoys building practica
 |  [Quiz Management System](https://github.com/SaadSarfraz438/Quiz-Management-System-CPP) | Console-based quiz app using OOP concepts | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
 |  [SCRAMS System Design](https://github.com/SaadSarfraz438/SCRAMS-System-Design) | UML diagrams for a Smart Course Registration System | ![System Design](https://img.shields.io/badge/SystemDesign-E95420?style=for-the-badge&logo=SystemDesign&logoColor=white)|
 |  [Migraine Prediction ML](https://github.com/SaadSarfraz438/migraine-prediction-ml) | ML-based migraine prediction using survey data | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![ML](https://img.shields.io/badge/ML%20-F9AB00?style=for-the-badge&logo=ML&logoColor=black)|
-| [DSA-Visualizer](https://github.com/saadsarfraz438/dsa-visualizer) |Visually demonstrate the working of major data structures| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JS](https://img.shields.io/badge/JS-E95420?style=for-the-badge&logo=JS&logoColor=white) <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML5 Icon" width="40" height="40"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKdPUVc81aC13AcFvnFOP3TqVWZBca30MlkFBZROmHw&s=10" alt="CSS Icon" width="40" height="40" > |
+| [DSA-Visualizer](https://github.com/saadsarfraz438/dsa-visualizer) |Visually demonstrate the working of major data structures| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)|
 
 ---
 

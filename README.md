@@ -17,7 +17,7 @@
                         
 ------------------------------------------------------------------------        
 <h1 align="center">Hi, I'm Saad 👋</h1>
-<h3 align="center">Software Engineering Student | The University of Lahore</h3>
+<h3 align="center">Software Engineer | The University of Lahore</h3>
 
 ---
 
@@ -46,6 +46,7 @@ I'm a passionate Software Engineering undergraduate who enjoys building practica
 ## portfolio
 
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Live%20Demo-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://saadsarfraz438.github.io/portfolio/)
+
 ---
 
 ##  Tech Stack
@@ -58,6 +59,12 @@ I'm a passionate Software Engineering undergraduate who enjoys building practica
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor='#1572B6)
+![C#](https://shields.io/badge/C-white?style=for-the-badge&logo=C#&logoColor=skyblue) 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5DJIzVsZvbiYUxd7q1R37rLK5wek55LfAlHgWRnR4A&s=10" alt="C#" width="60" height="28"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWQtbysrHeN6QB6YZmHWeBHRCqbIGRw2f-QkSmF4Q0A&s=10"
+ alt=".Net" width="60" height="28"/>
+
+
 
 
 ### Libraries & Frameworks
@@ -79,15 +86,17 @@ I'm a passionate Software Engineering undergraduate who enjoys building practica
 
 ---
 
-##  Projects
+##  Projects     
 
 | Project | Description | Tech |
 |--------|-------------|------|
+|  [Lumensoft POS system](https://github.com/saadsarfraz438/project) |A full-stack Point of Sale (POS) web application on the frontend and backend. |![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)![React](https://shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor='#1572B6) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5DJIzVsZvbiYUxd7q1R37rLK5wek55LfAlHgWRnR4A&s=10" alt="C#" width="60" height="28"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWQtbysrHeN6QB6YZmHWeBHRCqbIGRw2f-QkSmF4Q0A&s=10" alt=".Net" width="60" height="28"/> |
+|  [DSA-Visualizer](https://github.com/saadsarfraz438/dsa-visualizer) |Visually demonstrate the working of major data structures| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 |  [Hotel Reservation Management System](https://github.com/SaadSarfraz438/hotel-reservation-management-system-dbms) | ER diagram, relational schema, normalization & SQL queries |![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-150458?style=for-the-badge&logo=DBMS&logoColor=white)|
 |  [Quiz Management System](https://github.com/SaadSarfraz438/Quiz-Management-System-CPP) | Console-based quiz app using OOP concepts | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
 |  [SCRAMS System Design](https://github.com/SaadSarfraz438/SCRAMS-System-Design) | UML diagrams for a Smart Course Registration System | ![System Design](https://img.shields.io/badge/SystemDesign-E95420?style=for-the-badge&logo=SystemDesign&logoColor=white)|
 |  [Migraine Prediction ML](https://github.com/SaadSarfraz438/migraine-prediction-ml) | ML-based migraine prediction using survey data | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![ML](https://img.shields.io/badge/ML%20-F9AB00?style=for-the-badge&logo=ML&logoColor=black)|
-| [DSA-Visualizer](https://github.com/saadsarfraz438/dsa-visualizer) |Visually demonstrate the working of major data structures| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)|
+| 
 
 ---
 
